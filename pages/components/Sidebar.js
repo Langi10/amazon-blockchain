@@ -103,7 +103,7 @@ const Sidebar = () => {
         </div>
         <div className={styles.menuItem}>
           <BsFillPersonFill />
-          Saved
+          Profile
         </div>
         <Link href='/history'>
           <div className={styles.menuItem}>
